@@ -1,0 +1,6 @@
+D:\VS\Hudai\ClientSide\bin\ClientSide.dll.config
+D:\VS\Hudai\ClientSide\bin\ClientSide.dll
+D:\VS\Hudai\ClientSide\bin\ClientSide.pdb
+D:\VS\Hudai\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\VS\Hudai\ClientSide\obj\Debug\ClientSide.dll
+D:\VS\Hudai\ClientSide\obj\Debug\ClientSide.pdb
